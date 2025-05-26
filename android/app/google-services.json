@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328820527565",
+    "project_id": "driverassist-c9077",
+    "storage_bucket": "driverassist-c9077.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328820527565:android:3bcd5548a0c9842b26f484",
+        "android_client_info": {
+          "package_name": "com.example.driver_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328820527565-eg62t7fquukb8g305rk7b6ffi1o384a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-BKUSUCPU50lQ3FIOtgdb7PBMkm6TTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328820527565-eg62t7fquukb8g305rk7b6ffi1o384a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
